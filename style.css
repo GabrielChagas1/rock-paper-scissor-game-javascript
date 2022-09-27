@@ -29,3 +29,10 @@ body{
     margin-bottom: 50px;
     text-align: right;
 }
+.weapons{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+}
+.weapons button{
