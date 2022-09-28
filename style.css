@@ -50,3 +50,8 @@ body{
     margin-top: 30px;
     text-align: center;
 }
+.scores,.details{
+    font-family: 'Poppins',sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+}
