@@ -27,3 +27,5 @@ let choices_object = {
 
     document.getElementById("user_choice").innerHTML = 
     ` You choose <span> ${input.toUpperCase()} </span>`;
+
+    let computer_choice = choices[num];
