@@ -46,3 +46,5 @@ let choices_object = {
             result_ref.innerHTML = "DRAW";
             break;
     }
+
+    document.getElementById("computer_score").innerHTML = computer_score;
