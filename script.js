@@ -19,6 +19,7 @@ let choices_object = {
 
 }
 
+function checker(input){
     var choices = ["rock", "paper", "scissor"];
     var num = Math.floor(Math.random()*3);
 
@@ -49,3 +50,4 @@ let choices_object = {
 
     document.getElementById("computer_score").innerHTML = computer_score;
     document.getElementById("user_score").innerHTML = user_score;
+}
